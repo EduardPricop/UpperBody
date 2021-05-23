@@ -2,11 +2,25 @@
   "categories" : [ {
     "name" : "Movies",
     "videos" : [ {
-      "description" : "The 8 Best Chest Exercises (No bench or dips!)",
+      "description" : "The best chest exercises are not determined by the ones you can lift the most weight on but rather the ones that work best for you.  In this video, I’m going to show you the 8 best chest exercises to help you build a bigger chest despite using bench press and dips for years.  Many people think that these staple chest workout moves must be included if you want to develop a big chest, but the reality is they do not work best for everyone.
+
+That said, the eight chest exercises shown here are ones you can try if you feel like you have hit a dead end in your chest development.  Beyond that, these can be done as activators before your chest workout that will help you to get even more out of the bench press and dips later in the routine.  The key is first to understand why these two big exercises may not be working so great for you.
+
+It comes down to the anatomy of the chest and how it prefers to contract.  The biggest motion that the pecs are responsible for above all others is horizontal adduction at the shoulder.  This means, taking the upper arm and driving it across the chest.  Ideally, you would want your chest exercises to incorporate the motion so that both arms could almost cross over each other or at least the midline of your body if you want to get a maximal chest contraction.
+
+We can do that with the first exercise shown, the twisting pushup.  Here, no equipment at all is needed to help you get more from your pushups.  Instead of just pushing straight up and down you can twist your body as you do and get a relative adduction at the shoulder which will help you get a better squeeze and contraction.  Since your hands will be fixed on the ground as they are in a regular pushup, the twisting of the body will draw the arm across and help you get better results from doing this.
+
+The plate squeeze is an awesome chest exercise that can be used as an activator before your chest workout or at the end as a finisher.  The key is to squeeze the plates as hard as possible together and not let them slide apart.  The chest contraction you feel here will be insane and well worth the inclusion of this move in your chest workout.
+
+The Db chest pullover is a variation of the classic dumbbell pullover, except this one will target the upper pecs as opposed to the lats.  Instead of flaring the elbows and trying to pull the weight all the way up over your chest, restrict the range of motion a bit and squeeze the hands together to get the weight up.  This will light up your upper pecs and really help you to recruit this often hard to hit area much better.
+
+Floor flys give you a safer way to overload this common chest exercise.  The problem with the traditional fly exercise is that it places your shoulder joints in a compromising position.  Some will say to just drop the amount of weight you use here and you will have no problems.  The issue is, you will be leaving gains on the table by doing that.  Here you can get the best of all worlds while having the floor to support your use of heavier, muscle building weights.
+
+The variations of chest crossovers give you an obvious way to get not just one arm, but both, across your body and experience a strong chest contraction.  Whether you do the 3D cross over or the X cross, both of these are going to help you to get great chest activation and even better chest growth over time.",
       "sources" : [ "https://firebasestorage.googleapis.com/v0/b/licenta-gym.appspot.com/o/Fitness%2FUpperBody%2FThe%208%20Best%20Chest%20Exercises%20(NO%20BENCH%20OR%20DIPS!).mp4?alt=media&token=547973ae-9230-4f01-934d-c4aa42178b7a" ],
       "subtitle" : "By Athlean-X",
       "thumb" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
-      "title" : "CHEST EXERCISES"
+      "title" : "The 8 Best Chest Exercises (No bench or dips!)"
     }, {
       "description" : "The first Blender Open Movie from 2006",
       "sources" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" ],
@@ -49,31 +63,7 @@
       "subtitle" : "By Blender Foundation",
       "thumb" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
       "title" : "Sintel"
-    }, {
-      "description" : "Smoking Tire takes the all-new Subaru Outback to the highest point we can find in hopes our customer-appreciation Balloon Launch will get some free T-shirts into the hands of our viewers.",
-      "sources" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4" ],
-      "subtitle" : "By Garage419",
-      "thumb" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/SubaruOutbackOnStreetAndDirt.jpg",
-      "title" : "Subaru Outback On Street And Dirt"
-    }, {
-      "description" : "Tears of Steel was realized with crowd-funding by users of the open source 3D creation tool Blender. Target was to improve and test a complete open and free pipeline for visual effects in film - and to make a compelling sci-fi film in Amsterdam, the Netherlands. The film itself, and all raw material used for making it, have been released under the Creatieve Commons 3.0 Attribution license. Visit the tearsofsteel.org website to find out more about this, or to purchase the 4-DVD box with a lot of extras. (CC) Blender Foundation - http://www.tearsofsteel.org",
-      "sources" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4" ],
-      "subtitle" : "By Blender Foundation",
-      "thumb" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
-      "title" : "Tears of Steel"
-    }, {
-      "description" : "The Smoking Tire heads out to Adams Motorsports Park in Riverside, CA to test the most requested car of 2010, the Volkswagen GTI. Will it beat the Mazdaspeed3's standard-setting lap time? Watch and see...",
-      "sources" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4" ],
-      "subtitle" : "By Garage419",
-      "thumb" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/VolkswagenGTIReview.jpg",
-      "title" : "Volkswagen GTI Review"
-    }, {
-      "description" : "The Smoking Tire is going on the 2010 Bullrun Live Rally in a 2011 Shelby GT500, and posting a video from the road every single day! The only place to watch them is by subscribing to The Smoking Tire or watching at BlackMagicShine.com",
-      "sources" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4" ],
-      "subtitle" : "By Garage419",
-      "thumb" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WeAreGoingOnBullrun.jpg",
-      "title" : "We Are Going On Bullrun"
-    }, {
+    },   {
       "description" : "The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com to see just how far $1,000 can go when looking for a car.The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com to see just how far $1,000 can go when looking for a car.",
       "sources" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4" ],
       "subtitle" : "By Garage419",
